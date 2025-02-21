@@ -1,8 +1,6 @@
 #Creators -
-#Shreejit Gajanan Deshmukh
 #Venkata Sai Advaith Kandiraju
-#PRCV Spring 2023' Assignment 5 - Deep learning
-
+#Shreejit Gajanan Deshmukh
 
 1. Windows OS used with Jupyter Notebook for each part of the project. **Asked in Piazza, made sure to comment as required and the structure maintained as expected for neural networks.
 
